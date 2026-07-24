@@ -63,7 +63,7 @@ npm start browse 5
 npm start agg 30s
 above agg command code be either in seconds s, minutes m, hours h
 
-## Quick stepse
+## Quick steps
 1. npm install
 2. Create .gatorconfig.json
 3. Create database + run migrations
